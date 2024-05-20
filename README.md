@@ -10,3 +10,10 @@ Utilization of unordered lists: The website organized content in a structured an
 Incorporation of GIFs for visuals: GIF images were used to add visual effects and enhance the site's appeal. This incorporates with the "vibe" of Yamamoto, as his powers rely on fire and destruction.
 
 Implementation of a like button that saves likes to local storage: For the "Like" button, functionality was created using JS, allowing users to click the button and add a like to a variable representing the number of likes. This variable consists of data stored in the browser's local storage, so users can see the number of likes they've added even when refreshing the page.
+
+
+My Website is:
+    https://wed-2023.github.io/318434123-amitprp/
+
+My ID:
+    318434123
