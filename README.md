@@ -5,7 +5,7 @@
 
 In the website created, I utilized several techniques to enhance the user experience:
 
-Utilization of unordered lists: The website organized content in a structured and clear manner using <ul> and <li> tags. For example, in the "About" page, lists were used to highlight various characteristics of Yamamoto.
+Utilization of unordered lists: The website organized content in a structured and clear manner using ul and li tags. For example, in the "About" page, lists were used to highlight various characteristics of Yamamoto.
 
 Incorporation of GIFs for visuals: GIF images were used to add visual effects and enhance the site's appeal. This incorporates with the "vibe" of Yamamoto, as his powers rely on fire and destruction.
 
