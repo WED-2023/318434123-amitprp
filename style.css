@@ -6,8 +6,11 @@ body {
     padding: 0;
 }
 
-header {
-    background: #333;
+header , h2{
+    /* background: #333; */
+	background-image: url('images/fire.gif');
+    /* background-size: cover; Adjust the background size */
+    
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -39,7 +42,7 @@ nav a:hover {
     padding: 70px 20px 20px; /* Adjust padding to account for the fixed navbar */
 }
 
-h1, h2, h3 {
+h3 {
     color: #333;
 }
 
@@ -52,6 +55,7 @@ label, input, textarea, select, button {
     display: block;
     width: 100%;
     margin-bottom: 10px;
+	text-align: center;
 }
 
 button {
@@ -79,4 +83,16 @@ footer a {
 
 footer img {
     margin-top: 10px;
+}
+
+#likeButton {
+    font-size: 12px; 
+    padding: 5px 10px; 
+	width: 80px; 
+}
+
+.small {
+    font-size: 12px;
+    padding: 5px 10px;
+	width: 80px; 
 }
